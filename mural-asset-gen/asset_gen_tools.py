@@ -1,4 +1,6 @@
 """
+Author/Engineer: Lerato Mokoena
+
 This file houses a collection of tool functions. It is a utility collection.
 """
 from __future__ import unicode_literals

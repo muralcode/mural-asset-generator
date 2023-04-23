@@ -1,4 +1,6 @@
 """
+Author/Engineer: Lerato Mokoena
+
 This file houses functionality related to processing of the pbxproj project file found in iOS projects
 """
 import os
