@@ -1,4 +1,6 @@
 """
+Author/Engineer: Lerato Mokoena
+
 Small wrapper class, makes getting environment variables more verbose, prevents importing os where only env vars are
 wanted/needed.
 """

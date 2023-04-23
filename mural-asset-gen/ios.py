@@ -1,4 +1,6 @@
 """
+Author/Engineer: Lerato Mokoena
+
 iOS-specific processing required for app white-labelling an application go in this file.
 
 This file contains the Ios Platform class, which is subclassed from the MobilePlatform class.

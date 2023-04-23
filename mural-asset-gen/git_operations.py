@@ -1,4 +1,6 @@
 """
+Author/Engineer: Lerato Mokoena
+
 This file houses the common git commands / execution required in gathering app white-labelling repository statistics and
 information used to identify unique app builds.
 """

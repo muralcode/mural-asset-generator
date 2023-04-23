@@ -1,4 +1,6 @@
 """
+Author/Engineer: Lerato Mokoena
+
 This is the main entrypoint file for app white-labelling of asset packs for the FinancialApp-iOS by Arurea Murals.
 """
 import json

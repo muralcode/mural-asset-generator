@@ -1,4 +1,6 @@
 """
+Author/Engineer: Lerato Mokoena
+
 This file houses the code class ClientData, and its purpose is to convert client input from Excel format into usable
 data structures for white-labelling apps.
 """
